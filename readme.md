@@ -1,4 +1,4 @@
-# FoodTiger | QR SaaS | WhatsApp | LionPOS
+# etabs | QR SaaS | Stripe | POS
 
 [![QR](	https://loom.business/impactfront/img/flayer.png)](https://loom.business/)
 [![FT](https://loom.business/uploads/settings/795fc9c0-6e1e-4de4-9fd0-5daa4aa23ed4_logo.jpg)](https://loom.business/home)
@@ -33,8 +33,6 @@ MAIL_FROM_NAME='App Demo'
 
 ## Updates
 
-git diff --name-only 07f20373480c2237d3e5a743aca217089afeee02 > .diff-files.txt && npm run zipupdate
-
 COMPOSER_MEMORY_LIMIT=-1 composer require */**
 
 ## Clearing cache
@@ -47,13 +45,6 @@ php artisan config:cache
 php artisan route:cache
 php artisan optimize
 
-## Create new module
-php artisan module:make Fields
-php artisan module:make-migration create_fields_table fields
-https://github.com/akaunting/laravel-module
-
-## Zip withoit mac
-zip -r es_lang.zip . -x ".*" -x "__MACOSX"
 
 ## Sync missing keys
 php artisan translation:sync-missing-translation-keys

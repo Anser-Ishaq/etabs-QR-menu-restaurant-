@@ -1,8 +1,8 @@
 # FoodTiger | QR SaaS | WhatsApp | LionPOS
 
+[![QR](	https://loom.business/impactfront/img/flayer.png)](https://loom.business/)
 [![FT](https://loom.business/uploads/settings/795fc9c0-6e1e-4de4-9fd0-5daa4aa23ed4_logo.jpg)](https://loom.business/home)
-[![QR](https://i.imgur.com/bqpWgnU.jpg)](https://codecanyon.net/user/mobidonia/portfolio)
-[![WP](https://i.imgur.com/VgHDizv.jpg)](https://codecanyon.net/user/mobidonia/portfolio)
+[![WP](https://loom.business/impactfront/img/qrdemo.jpg)](https://loom.business/tables)
 
 
 ## Test

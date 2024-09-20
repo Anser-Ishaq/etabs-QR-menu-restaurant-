@@ -1,0 +1,2 @@
+<input <?php echo e($attributes->class(['border border-secondary form-control rounded-pill'])->merge(['type' => 'text'])); ?> />
+<?php /**PATH /home/vagrant/Sites/lara2/resources/views/components/webapp/input.blade.php ENDPATH**/ ?>
